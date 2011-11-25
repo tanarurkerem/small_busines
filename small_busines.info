@@ -1,0 +1,7 @@
+name = Small Busines
+core = 7.x
+dependencies[] = features
+dependencies[] = tanarurkerem_ckeditor
+dependencies[] = services_and_references
+dependencies[] = simple_contact
+files[] = small_busines.profile
