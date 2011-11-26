@@ -1,7 +1,9 @@
 name = Small Busines
+description = Demo Profile
 core = 7.x
 dependencies[] = features
 dependencies[] = tanarurkerem_ckeditor
 dependencies[] = services_and_references
 dependencies[] = simple_contact
+dependencies[] = admin_menu
 files[] = small_busines.profile

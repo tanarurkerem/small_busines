@@ -4,6 +4,8 @@ core = 7.x
 projects[drupal][type] = core
 projects[drupal][version] = 7.9
 
+projects[admin_menu][subdir] = contrib
+
 projects[simple_contact][subdir] = features
 projects[simple_contact][type] = module
 projects[simple_contact][download][type] = git
@@ -22,8 +24,8 @@ projects[tanarurkerem_ckeditor][download][type] = git
 projects[tanarurkerem_ckeditor][download][url] = git://github.com/tanarurkerem/tanarurkerem_ckeditor.git
 projects[tanarurkerem_ckeditor][download][branch] = master
 
-projects[small_business][type] = profile
-projects[small_business][download][type] = git
-projects[small_business][download][url] = git://github.com/tanarurkerem/small_busines.git
-projects[small_business][download][branch] = master
+projects[small_busines][type] = profile
+projects[small_busines][download][type] = git
+projects[small_busines][download][url] = git://github.com/tanarurkerem/small_busines.git
+projects[small_busines][download][branch] = master
 
