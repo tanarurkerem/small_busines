@@ -24,8 +24,8 @@ projects[tanarurkerem_ckeditor][download][type] = git
 projects[tanarurkerem_ckeditor][download][url] = git@github.com:tanarurkerem/tanarurkerem_ckeditor.git
 projects[tanarurkerem_ckeditor][download][branch] = master
 
-projects[small_busines_profile][type] = profile
-projects[small_busines_profile][download][type] = git
-projects[small_busines_profile][download][url] = git@github.com:tanarurkerem/small_busines.git
-projects[small_busines_profile][download][branch] = master
+projects[small_busines][type] = profile
+projects[small_busines][download][type] = git
+projects[small_busines][download][url] = git@github.com:tanarurkerem/small_busines.git
+projects[small_busines][download][branch] = master
 
