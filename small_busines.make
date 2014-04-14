@@ -28,4 +28,5 @@ projects[small_busines_profile][type] = profile
 projects[small_busines_profile][download][type] = git
 projects[small_busines_profile][download][url] = git@github.com:tanarurkerem/small_busines.git
 projects[small_busines_profile][download][branch] = master
+projects[small_busines_profile][directory_name] = small_busines
 
